@@ -15,7 +15,7 @@ googleAnalytics:
 DefaultContentLanguage: en
 
 permalinks:
-    post: /p/:slug/
+    post: /posts/:slug/
     page: /:slug/
 
 params:
@@ -35,7 +35,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: ...updating...
         avatar:
             enabled: true
             local: true
