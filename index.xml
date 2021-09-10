@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Example Site</title><link>https://blog.tbui.xyz/</link><description>Recent content on Example Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.tbui.xyz/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Example Site</title><link>https://blog.tbui.xyz/</link><description>Recent content on Example Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.tbui.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello, world</title><link>https://blog.tbui.xyz/p/hello-world/</link><pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate><guid>https://blog.tbui.xyz/p/hello-world/</guid><description>&lt;h2 id="hello-world-of-heading-21">Hello world of heading 2.1&lt;/h2>
+&lt;p>Hello 1&lt;/p>
+&lt;h2 id="hello-word-of-heading-22">Hello word of heading 2.2&lt;/h2>
+&lt;p>Hello 2&lt;/p>
+&lt;p>&lt;figure
+class="gallery-image"
+style="
+flex-grow: 100;
+flex-basis: 240px"
+>
+&lt;a href="https://blog.tbui.xyz/p/hello-world/d.jpg" data-size="500x500">
+&lt;img src="https://blog.tbui.xyz/p/hello-world/d.jpg"
+width="500"
+height="500"
+srcset="https://blog.tbui.xyz/p/hello-world/d_hu421b6ff806b665b1753b1b68dd1f982e_34193_480x0_resize_q75_box.jpg 480w, https://blog.tbui.xyz/p/hello-world/d_hu421b6ff806b665b1753b1b68dd1f982e_34193_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="This is a image">
+&lt;/a>
+&lt;figcaption>This is a image&lt;/figcaption>
+&lt;/figure>&lt;/p></description></item></channel></rss>
